@@ -1,6 +1,5 @@
 # Oinc-Oinc-Adventures
 Let's explore our World
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
